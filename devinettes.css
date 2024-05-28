@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#guess-container {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: red;
+}
